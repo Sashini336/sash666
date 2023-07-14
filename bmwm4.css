@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1f1f1;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: antiquewhite;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.image {
+  width: 60%;
+  height: auto;
+  padding-left: 20%;
+  padding-right: 20%;
+  position: relative;
+}
+
+.desc #name {
+  font-size: 25px;
+  font-weight: bold;
+  padding-left: 50%;
+  transform: translatey(-50%);
+}
+
+.desc #price {
+  color: #2901dd;
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 75%;
+  transform: translateY(-75%);
+  margin: 0px;
+}
+
+.desc #year {
+  font-weight: bold;
+  display: flex;
+  font-size: 17px;
+  margin-left: 16%;
+}
+
+.desc #engine {
+  font-weight: bold;
+  display: flex;
+  font-size: 17px;
+  margin-left: 16%;
+}
+
+.desc #horsepower {
+  font-weight: bold;
+  display: flex;
+  font-size: 17px;
+  margin-left: 16%;
+}
+.desc #eco {
+  font-weight: bold;
+  display: flex;
+  font-size: 17px;
+  margin-left: 16%;
+}
+.desc #trans {
+  font-weight: bold;
+  display: flex;
+  font-size: 17px;
+  margin-left: 16%;
+}
+
+.desc #millage {
+  font-weight: bold;
+  display: flex;
+  font-size: 17px;
+  margin-left: 16%;
+}
+
+.desc #color {
+  font-weight: bold;
+  display: flex;
+  font-size: 17px;
+  margin-left: 16%;
+}
+
+li {
+  font-weight: bold;
+}
+
+.container #more-info {
+  display: flex;
+  padding-left: 40%;
+  padding-bottom: 50p;
+}

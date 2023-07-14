@@ -37,57 +37,56 @@ body {
 
 .desc #year {
   font-weight: bold;
-  display: flex;
+  display: inline;
   font-size: 17px;
-  margin-left: 16%;
+  margin-left: 10px;
 }
 
 .desc #engine {
   font-weight: bold;
-  display: flex;
+  display: inline;
   font-size: 17px;
-  margin-left: 16%;
+  margin-left: 10px;
 }
 
 .desc #horsepower {
   font-weight: bold;
-  display: flex;
+  display: inline;
   font-size: 17px;
-  margin-left: 16%;
+  margin-left: 10px;
 }
 .desc #eco {
   font-weight: bold;
-  display: flex;
+  display: inline;
   font-size: 17px;
-  margin-left: 16%;
+  margin-left: 10px;
 }
 .desc #trans {
   font-weight: bold;
-  display: flex;
+  display: inline;
   font-size: 17px;
-  margin-left: 16%;
+  margin-left: 10px;
 }
 
 .desc #millage {
   font-weight: bold;
-  display: flex;
+  display: inline;
   font-size: 17px;
-  margin-left: 16%;
+  margin-left: 10px;
 }
 
 .desc #color {
   font-weight: bold;
-  display: flex;
+  display: inline;
   font-size: 17px;
-  margin-left: 16%;
+  margin-left: 10px;
 }
 
 li {
-  font-weight: bold;
 }
 
 .container #more-info {
   display: flex;
   padding-left: 40%;
-  padding-bottom: 50p;
+  padding-right: 40%;
 }

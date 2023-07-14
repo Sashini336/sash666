@@ -35,6 +35,13 @@ body {
   margin: 0px;
 }
 
+.desc #bgn {
+  color: black;
+  font-size: 20px;
+  display: inline;
+  padding-left: -100%;
+}
+
 .desc #year {
   font-weight: bold;
   display: inline;
@@ -80,9 +87,6 @@ body {
   display: inline;
   font-size: 17px;
   margin-left: 10px;
-}
-
-li {
 }
 
 .container #more-info {
